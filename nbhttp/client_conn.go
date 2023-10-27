@@ -12,9 +12,9 @@ import (
 	"unsafe"
 
 	"github.com/lesismal/llib/std/crypto/tls"
-	"github.com/lesismal/nbio"
-	"github.com/lesismal/nbio/logging"
-	"github.com/lesismal/nbio/mempool"
+	"github.com/soar4/nbio"
+	"github.com/soar4/nbio/logging"
+	"github.com/soar4/nbio/mempool"
 )
 
 type resHandler struct {

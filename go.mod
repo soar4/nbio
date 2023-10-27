@@ -1,4 +1,4 @@
-module github.com/lesismal/nbio
+module github.com/soar4/nbio
 
 go 1.16
 

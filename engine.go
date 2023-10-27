@@ -12,8 +12,8 @@ import (
 	"time"
 	"unsafe"
 
-	"github.com/lesismal/nbio/logging"
-	"github.com/lesismal/nbio/timer"
+	"github.com/soar4/nbio/logging"
+	"github.com/soar4/nbio/timer"
 )
 
 const (

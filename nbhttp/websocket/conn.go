@@ -15,9 +15,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/lesismal/nbio/logging"
-	"github.com/lesismal/nbio/mempool"
-	"github.com/lesismal/nbio/nbhttp"
+	"github.com/soar4/nbio/logging"
+	"github.com/soar4/nbio/mempool"
+	"github.com/soar4/nbio/nbhttp"
 )
 
 const (

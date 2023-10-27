@@ -6,7 +6,7 @@ import (
 	"testing"
 
 	ltls "github.com/lesismal/llib/std/crypto/tls"
-	"github.com/lesismal/nbio"
+	"github.com/soar4/nbio"
 )
 
 func TestConn2String(t *testing.T) {

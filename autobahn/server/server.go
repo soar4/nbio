@@ -9,9 +9,9 @@ import (
 	"time"
 
 	"github.com/lesismal/llib/std/crypto/tls"
-	"github.com/lesismal/nbio/nbhttp"
-	"github.com/lesismal/nbio/nbhttp/websocket"
-	"github.com/lesismal/nbio/taskpool"
+	"github.com/soar4/nbio/nbhttp"
+	"github.com/soar4/nbio/nbhttp/websocket"
+	"github.com/soar4/nbio/taskpool"
 )
 
 func newUpgrader(isDataFrame bool) *websocket.Upgrader {

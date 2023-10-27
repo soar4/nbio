@@ -15,7 +15,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/lesismal/nbio/timer"
+	"github.com/soar4/nbio/timer"
 )
 
 // Conn wraps net.Conn.

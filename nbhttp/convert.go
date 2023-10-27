@@ -8,7 +8,7 @@ import (
 	"unsafe"
 
 	ltls "github.com/lesismal/llib/std/crypto/tls"
-	"github.com/lesismal/nbio"
+	"github.com/soar4/nbio"
 )
 
 const (

@@ -2,8 +2,8 @@ package tls
 
 import (
 	"github.com/lesismal/llib/std/crypto/tls"
-	"github.com/lesismal/nbio"
-	"github.com/lesismal/nbio/mempool"
+	"github.com/soar4/nbio"
+	"github.com/soar4/nbio/mempool"
 )
 
 // Conn .

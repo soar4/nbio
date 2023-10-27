@@ -12,7 +12,7 @@ import (
 	"runtime"
 	"time"
 
-	"github.com/lesismal/nbio/logging"
+	"github.com/soar4/nbio/logging"
 )
 
 const (
