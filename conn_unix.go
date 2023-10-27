@@ -53,6 +53,10 @@ type Conn struct {
 	DataHandler func(c *Conn, data []byte)
 }
 
+func (c *Conn) WBufLen() int {
+	return len(c.writeBuffer)
+}
+
 // Hash returns a hash code.
 func (c *Conn) Hash() int {
 	return c.fd
